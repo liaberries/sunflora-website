@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.6 15.86">
+  <g id="Group_8" data-name="Group 8" transform="translate(-793.25 -18.777)">
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(792.877 18.404)">
+      <path id="Path_2" data-name="Path 2" d="M14.435,31.217A1.217,1.217,0,1,1,13.217,30,1.217,1.217,0,0,1,14.435,31.217Z" transform="translate(-6.39 -18.205)" fill="none" stroke="#1f1714" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_3" data-name="Path 3" d="M30.935,31.217A1.217,1.217,0,1,1,29.717,30,1.217,1.217,0,0,1,30.935,31.217Z" transform="translate(-16.758 -18.205)" fill="none" stroke="#1f1714" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_4" data-name="Path 4" d="M1.5,1.5H4.274L6.132,9.052a1.352,1.352,0,0,0,1.387.908h6.74a1.352,1.352,0,0,0,1.387-.908L16.755,4.32H4.967" transform="translate(-0.377 -0.377)" fill="none" stroke="#1f1714" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <text id="CART" transform="translate(815.572 31.633)" fill="#1d1714" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700"><tspan x="0" y="0">CART</tspan></text>
+  </g>
+</svg>

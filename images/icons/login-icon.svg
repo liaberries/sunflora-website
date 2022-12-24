@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.61 16.27">
+  <g id="Group_7" data-name="Group 7" transform="translate(-714 -19.5)">
+    <path id="Icon_material-person-outline" data-name="Icon material-person-outline" d="M12.842,7.625a1.8,1.8,0,1,1-1.8,1.8,1.8,1.8,0,0,1,1.8-1.8m0,7.7c2.54,0,5.217,1.249,5.217,1.8v.941H7.625v-.941c0-.547,2.677-1.8,5.217-1.8m0-9.322a3.421,3.421,0,1,0,3.421,3.421A3.42,3.42,0,0,0,12.842,6Zm0,7.7C10.558,13.7,6,14.843,6,17.118v2.566H19.683V17.118C19.683,14.843,15.125,13.7,12.842,13.7Z" transform="translate(708 13.5)" fill="#1d1714"/>
+    <text id="Login" transform="translate(731 32.767)" fill="#1d1714" font-size="12" font-family="Comfortaa-Bold, Comfortaa" font-weight="700"><tspan x="0" y="0">LOGIN</tspan></text>
+  </g>
+</svg>

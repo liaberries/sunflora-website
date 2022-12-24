@@ -1,0 +1,157 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cutive&display=swap');
+
+// Colors
+$brown-black: #1D1714;
+$dark-black: #1D1714;
+$gray: #707070;
+$light-gray: #EBEBEB;
+$brown: #46271D;
+$light-green: #C7EEB0;
+$dark-green: #599964;
+$forest-green: #80927F;
+$sunflora-yellow:#FFB953;
+
+// Typography
+$heading-font-family: 'Comfortaa', sans-serif;
+$heading-font-size: 35px;
+$heading-font-weight: 700;
+$body-font-family: 'Quicksand', sans-serif;
+$body-font-size: 16px;
+$body-font-weight: 500;
+
+// Overrides
+$primary: $gray;
+$btn-font-family: $body-font-family;
+$btn-padding-x: 1.5rem;
+$btn-padding-y: .600rem;
+$btn-font-weight: 700;
+
+// Import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    background-color: $forest-green;
+    
+}
+
+.coupon {
+    background-color: $gray;
+}
+
+a {
+    font-family: $body-font-family;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: $spacer;
+
+}
+
+
+h1 {
+    font-family: Cutive;
+    font-weight: $heading-font-weight;
+    letter-spacing: 0.0625em;
+}
+
+h2 {
+    font-family: $body-font-family;
+}
+
+p {
+    font-family: $body-font-family;
+    width: 35rem;
+}
+
+span {
+    color: $sunflora-yellow;
+    font-weight: bold;
+}
+
+button {
+    text-transform: uppercase;
+}
+
+
+.shop {
+    background-color: $light-gray;
+}
+
+.genus {
+    width: 75%;
+}
+
+.about {
+    background-color: $gray;
+}
+
+.about-container {
+    max-width: 550px;
+}
+
+.about-column {
+    max-width: 550px;
+}
+
+.about-content {
+    
+}
+
+.about-p {
+    
+}
+
+.about-img {
+    max-width: 550px;
+}
+
+.small-text-about {
+    
+}
+
+
+@media (max-width: 575.98px) {
+    .small-text-width {
+        max-width: 300px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .hero-img {
+        display: none;
+    }
+
+ }
+
+
+
+
+
+@include media-breakpoint-up(sm) {
+}
+
+@include media-breakpoint-up(xs) {
+    .navbar-brand {
+      width:200px;
+  }
+  //.small-text-about, .about-content {
+        //width: 20em;
+        //padding-left: 10px;
+        //text-align: center;
+  //}
+}
+
+@include media-breakpoint-up(md) {
+}
+
+// `md` applies to small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+    .about-column {
+        display: none;
+    }
+
+}
